@@ -49,8 +49,6 @@
     </engines>
 
     <!-- dependencies -->
-    <dependency id="cordova-plugin-device" />
-    <dependency id="cordova-plugin-badge" version=">=0.8.5" />
 
     <!-- js -->
     <js-module src="www/local-notification.js" name="LocalNotification">
